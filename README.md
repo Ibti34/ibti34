@@ -1,9 +1,9 @@
  Hi 👋 I'm Ibtisam Kedir
 
-🎓 Student  
+🎓 Software Student  
 💻 Learning Programming & Web Development  
 🌱 Currently learning Laravel and GitHub  
-📍 Based in Ethiopia  
+📍 Based in Ethiopia,Arbaminch university 
 
 ### Skills
 - HTML, CSS
