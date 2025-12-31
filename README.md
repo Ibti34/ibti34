@@ -2,7 +2,7 @@
 
 🎓 Software Student  
 💻 Learning Programming & Web Development  
-🌱 Currently learning Laravel and GitHub  
+🌱 Currently learning Laravel 
 📍 Based in Ethiopia,Arbaminch university 
 
 ### Skills
