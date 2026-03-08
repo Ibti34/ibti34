@@ -2,11 +2,11 @@
 
 🎓 Software Student  
 💻 Learning Programming & Web Development  
-🌱 Currently learning Laravel 
+🌱 Currently learning Laravel,vue js & inertia
 📍 Based in Ethiopia,Arbaminch university 
 
 ### Skills
-- HTML, CSS
+- HTML, CSS ,js
 - PHP, Laravel (Beginner)
 
 ### Goals
